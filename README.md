@@ -1,2 +1,2 @@
 # Profile-Page
-Personal Profile Webste
+Personal Profile Website
